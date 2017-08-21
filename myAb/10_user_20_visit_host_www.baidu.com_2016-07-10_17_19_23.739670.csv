@@ -1,0 +1,25 @@
+Attribute,value
+200 requests,20
+Time per request,52.098 [ms]
+Server Software,BWS/1.1
+Time taken for tests,1.041966 seconds
+Document Path,/
+Requests per second,19.194 [#/sec]
+400 requests,0
+Document Length,2004982 bytes
+Server Hostname,www.baidu.com
+HTML transferred,2004982.000 bytes
+300 requests,0
+Sever Port,443
+100 requests,0
+Transfer rate,1915.232 [Kbytes/sec]
+600 requests,0
+500 requests,0
+total requests,20
+Total transferred,2043501.000 bytes
+
+Connection Times (ms)
+item,min,mean,median,max
+Waiting,215,296,275,389
+Total,471,611,634,1041
+Connect,54,61,62,70
